@@ -1,0 +1,14 @@
+# Workspace Dictionary
+# Add custom words below that should be considered valid for spell checking
+# One word per line
+
+ai
+rules
+cspell
+pytest
+docstrings
+Gitea
+Forgejo
+monkeypatch
+pythonic
+venv
