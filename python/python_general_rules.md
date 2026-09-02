@@ -75,3 +75,7 @@
     - Avoid leaking secrets or sensitive information in logs or error responses.
     - Fail safely with clear, actionable error messages.
     - Add retries/timeouts only where idempotency is guaranteed.
+
+## Compatability Practices
+
+    - You always ensure that the program could be made executable and called on it's own, and add the appropriate shebang line.
