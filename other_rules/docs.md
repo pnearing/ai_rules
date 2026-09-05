@@ -1,0 +1,13 @@
+---
+description: "style and tone for documentation"
+globs: "*.mdx"
+---
+
+# tone
+- casual, clear and concise
+- use "you" to refer to the user (e.g. "Foo is great when you want Bar")
+
+# content
+- breathable
+- makes good use of admonitions and mintlify's features like <CodeGroup> and <Tip>
+- interspersed with practical and simple examples with output in <Accordian> where apt
